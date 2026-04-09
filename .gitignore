@@ -1,6 +1,12 @@
 .venv/
+.vscode/
+
+
 Assessments/
 PY119/
 PY129/
 PY139/
-.vscode/
+SPOT/
+
+__pycache__/
+*.pyc
