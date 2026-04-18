@@ -1,0 +1,6 @@
+print(True.__class__.__name__)
+print('hello'.__class__.__name__)
+print([1, 2, 3, 'happy days'].__class__.__name__)
+print({1, 2, 3}.__class__.__name__)
+print((142).__class__.__name__)
+print(1.2345.__class__)
